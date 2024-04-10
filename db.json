@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1d17",
+      "firstName": "Nirmlaa",
+      "lastName": "dfgh",
+      "email": "fgh@gmail.com",
+      "phone": "2345345433",
+      "address": "xdcfg"
+    },
+    {
+      "id": "c7ee",
+      "firstName": "Nirmlaass",
+      "lastName": "asdfg",
+      "email": "fgh@gmail.com",
+      "phone": "1234523456",
+      "address": "sdfg"
+    },
+    {
+      "id": "0303",
+      "firstName": "abhinav",
+      "lastName": "sdfgh",
+      "email": "dfgh@gmail.com",
+      "phone": "2345334563",
+      "address": "dfgh"
+    },
+    {
+      "id": "2d9c",
+      "firstName": "Nirmla",
+      "lastName": "narkhede",
+      "email": "dfg@gmail.com",
+      "phone": "1234567890",
+      "address": "ghgreggfs"
+    },
+    {
+      "id": "e6da",
+      "firstName": "Nirmla",
+      "lastName": "narkhede",
+      "email": "dfg@gmail.com",
+      "phone": "1234567890",
+      "address": "ghgreggfs"
+    },
+    {
+      "id": "769a",
+      "firstName": "abhinav",
+      "lastName": "sdfgh",
+      "email": "dfgh@gmail.com",
+      "phone": "2345334563",
+      "address": "dfgh"
+    }
+  ]
+}

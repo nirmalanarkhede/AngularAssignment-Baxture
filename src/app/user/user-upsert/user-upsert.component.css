@@ -1,0 +1,17 @@
+.form{
+    height: 650px;
+    width: 350px;
+}
+.display{
+    display: flex;
+    justify-content: center;
+}
+.shadow{
+    box-shadow: 1px;
+}
+.show-message {
+    display: block !important; 
+  }
+.red-font{
+    color: red;
+}

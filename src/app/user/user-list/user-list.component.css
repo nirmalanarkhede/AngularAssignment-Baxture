@@ -1,0 +1,14 @@
+.add-btn{
+    display: flex;
+    justify-content: end;
+}
+.shadow{
+    box-shadow: 1px;
+}
+.show-message {
+    display: block !important; 
+  }
+.rounded{
+    border-radius: 100px;
+}
+  
